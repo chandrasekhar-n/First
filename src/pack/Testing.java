@@ -9,6 +9,7 @@ public class Testing {
 		// TODO Auto-generated method stub
 		Testing Testing = new Testing();
 		System.out.println("Change done by user 1 on branch 1 :: "+Testing.getClass().getName());
+		System.out.println("Changes by user 1 @ branch 1");
 	}
 
 }
