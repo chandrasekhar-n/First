@@ -13,6 +13,7 @@ public class Testing {
 		System.out.println("Changes by user 1 @ branch 1");
 		System.out.println("Testing remote branch");
 		System.out.println("Conflict test by another user");
+		System.out.println("Testing for tag release");
 	}
 
 }
