@@ -17,7 +17,6 @@ public class Testing {
 		System.out.println("ghsfgshfgjhgfjh");
 		System.out.println("change by goms");
 		System.out.println("Have done change here");
-		System.out.println("bhfdkjsfhdkjs");
 	}
 
 }
