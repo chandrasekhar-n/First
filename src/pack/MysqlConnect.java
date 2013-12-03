@@ -12,7 +12,7 @@ public class MysqlConnect{
 		String userName = "root"; 
 		String password = "root";
 		try {
-			System.out.println("In try");
+			System.out.println("In try user 2 change");
 			Class.forName(driver).newInstance();
 			conn = DriverManager.getConnection(url+dbName,userName,password);
 			System.out.println("Connected to the database");
